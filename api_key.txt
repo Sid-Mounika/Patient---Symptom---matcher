@@ -1,0 +1,13 @@
+Go to: https://console.groq.com
+
+Sign up / Login
+
+Open API Keys
+
+Create a new key
+
+Copy it (looks like: gsk_XXXXXXXX)
+
+
+Everytime we need to set api key:
+set GROQ_API_KEY=" "
