@@ -40,11 +40,7 @@ LLM generates explanation in simple terms
 
 **
 ⚙️ Installation & Setup**
-# Clone repository
-git clone https://github.com/your-username/ai-symptom-checker.git
 
-# Navigate folder
-cd ai-symptom-checker
 
 # Install dependencies
 pip install -r requirements.txt
